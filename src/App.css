@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap');
 
 .App {
-  /*background-color: #f5f5f4;*/
+  background-color: white;
   font-family:'Montserrat', sans-serif;
 }
 
@@ -11,6 +11,7 @@
   font-family: 'Abril Fatface', cursive;
   font-size: 35px;
   margin-left: 300px;
+  margin-bottom: 100px;
 }
 
 /*.cave-item {*/

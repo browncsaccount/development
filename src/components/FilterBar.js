@@ -23,7 +23,6 @@ function FilterBar(props) {
     };
 
     const matchSelectedDecade = (item) => {
-        //TODO: change any to all
         if (decade === "All Decades") {
             return true
         } else if (decade === item.decade) {

@@ -42,7 +42,7 @@ export default function CaveItem(props) {
     }
 
     return (
-        <div className="cave-item">
+        <div className="card">
             <img className='item-img' src={props.itemImg} />
             <div className='item-desc'>
                 <h3>{props.itemName}</h3>
