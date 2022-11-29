@@ -1,38 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Benne&family=Montserrat:wght@200&family=Playfair+Display&family=Roboto&family=Rubik:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap');
+
 .App {
-  text-align: center;
+  /*background-color: #f5f5f4;*/
+  font-family:'Montserrat', sans-serif;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.h1 {
+  text-transform: uppercase;
+  font-family: 'Abril Fatface', cursive;
+  font-size: 35px;
+  margin-left: 300px;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
+/*.cave-item {*/
+/*  background-color: gray;*/
+/*  color: black;*/
+/*}*/
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.catalog-container {
   display: flex;
-  flex-direction: column;
-  align-items: center;
+  flex-direction: row;
+  flex-wrap: wrap;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
 }

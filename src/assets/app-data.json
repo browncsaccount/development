@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Fine Line Standard Vinyl",
+    "description": "Harry Styles",
+    "price": 33.99,
+    "image": "https://i.postimg.cc/ncfbHpcL/harrystyles-finmeline-blackvinyl-1-1000x1000.webp",
+    "type": "Pop",
+    "decade": "2010s"
+  },
+  {
+    "name": "Midnights Standard Vinyl",
+    "description": "Taylor Swift",
+    "price": 34.99,
+    "image": "https://i.postimg.cc/25PtjqWf/vinyl6.webp",
+    "type": "Pop",
+    "decade": "2020s"
+  },
+  {
+    "name": "AM Standard Vinyl",
+    "description": "Artic Monkeys",
+    "price": 25.99,
+    "image": "https://i.postimg.cc/XqHVzPd5/arcticmonkeys-am-blackvinyl-1-1200x1200.webp",
+    "type": "Alternative/Indie",
+    "decade": "2010s"
+  },
+  {
+    "name": "An Evening with Silk Sonic Vinyl",
+    "description": "Silk Sonic",
+    "price": 27.99,
+    "image": "https://i.postimg.cc/QMQj3Cch/brunomarsandersonpaak-silksonic-blackvinyl-2-1000x1000.webp",
+    "type": "Pop",
+    "decade": "2020s"
+  },
+  {
+    "name": "Fleet Foxes / Sun Giant Vinyl",
+    "description": "Fleet Foxes",
+    "price": 16.99,
+    "image": "https://i.postimg.cc/Xq59gJ14/vinyl3.webp",
+    "type": "Alternative/Indie",
+    "decade": "2020s"
+  },
+  {
+    "name": "Let It Be Special Edition Vinyl",
+    "description": "The Beatles",
+    "price": 24.99,
+    "image": "https://i.postimg.cc/m2MKPq6g/beatles.webp",
+    "type": "Classic Rock",
+    "decade": "70s"
+  },
+  {
+    "name": "Are You Experienced Vinyl",
+    "description": "Jimi Hendrix",
+    "price": 34.99,
+    "image": "https://i.postimg.cc/XqTPqc0h/3057.jpg",
+    "type": "Classic Rock",
+    "decade": "70s"
+  },
+  {
+    "name": "Purple Rain Standard Vinyl",
+    "description": "Prince and the Revolution",
+    "price": 25.99,
+    "image": "https://i.postimg.cc/ryjh0Tqj/vinyl6.jpg",
+    "type": "Classic Rock",
+    "decade": "80s"
+  },
+  {
+    "name": "Van Halen Special Edition Vinyl",
+    "description": "Van Halen",
+    "price": 18.99,
+    "image": "https://i.postimg.cc/zB2SXz1P/3dad9e05-1d94-4138-bc76-7de1344f2d61-5b14409d47dbda97249ecf8497811031.webp",
+    "type": "Classic Rock",
+    "decade": "80s"
+  },
+  {
+    "name": "The Blue Album Standard Vinyl",
+    "description": "Weezer",
+    "price": 19.99,
+    "image": "https://i.postimg.cc/FsR8ZzR1/weezer-bluealbum-1800x-cae81974-dae6-4a28-8e9c-cf216d0a8718-1024x1024.webp",
+    "type": "Alternative/Indie",
+    "decade": "90s"
+  },
+  {
+    "name": "II Standard Vinyl",
+    "description": "Boyz II Men",
+    "price": 22.99,
+    "image": "https://i.postimg.cc/8zmd3BsH/vinyl8.webp",
+    "type": "R&B",
+    "decade": "90s"
+  },
+  {
+    "name": "CALL ME IF YOU GET LOST Vinyl",
+    "description": "Tyler the Creator",
+    "price": 22.99,
+    "image": "https://i.postimg.cc/wvRcMKTq/tylerthecreator-callmeifyougetlost-blackvinyl-1-1000x1000.webp",
+    "type": "R&B",
+    "decade": "2020s"
+  },
+  {
+    "name": "Grace Deluxe Vinyl",
+    "description": "Jeff Buckley",
+    "price": 29.99,
+    "image": "https://i.postimg.cc/HkmWnbzF/buckley.webp",
+    "type": "Alternative/Indie",
+    "decade": "90s"
+  },
+  {
+    "name": "Whip-Smart Standard Vinyl",
+    "description": "Liz Phair",
+    "price": 30.00,
+    "image": "https://i.postimg.cc/NGbkpx9k/lizphair.jpg",
+    "type": "Alternative/Indie",
+    "decade": "90s"
+  },
+  {
+    "name": "The Velvet Underground Vinyl",
+    "description": "The Velvet Underground",
+    "price": 14.25,
+    "image": "https://i.postimg.cc/TYfgM5mY/velvetunderground-greyalbum-abbeyroad-1-1200x1200.webp",
+    "type": "Alternative/Indie",
+    "decade": "70s"
+  }
+]

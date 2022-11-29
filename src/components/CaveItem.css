@@ -1,0 +1,63 @@
+.cave-item {
+    background-color: rgb(247, 247, 247);
+    width: 20em;
+    margin: 1rem;
+}
+
+.item-img {
+    width: 20em;
+}
+
+.item-desc {
+    background-color: rgb(247, 247, 247);
+    padding: 1rem;
+}
+
+.price-cart {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    position: relative;
+    bottom: 0;
+}
+
+.filter-container {
+    display: flex;
+    flex-direction: column;
+    /*flex-wrap: wrap;*/
+    /*justify-content: space-around;*/
+    height: 100%;
+    width: 200px;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: gray;
+    overflow-x: hidden;
+    padding-top: 20px;
+}
+
+.filter-container select {
+    text-decoration: none;
+    font-size: 15px;
+    color: #818181;
+    margin-left: 20px;
+    display: block;
+}
+
+.filter-container h3 {
+    font-size: 18px;
+    color: black;
+    margin-left: 20px;
+}
+
+.favorites-container {
+    margin-top: 40px;
+    margin-left: 20px;
+    margin-right: 5px;
+}
+
+.catalog-container {
+    margin-left: 200px;
+}

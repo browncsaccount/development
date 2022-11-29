@@ -1,23 +1,14 @@
-import logo from './logo.svg';
 import './App.css';
+import appData from "./assets/app-data.json";
+import CaveItem from "./components/CaveItem";
+import React, { useState, useEffect } from 'react';
+import FilterBar from "./components/FilterBar";
 
 function App() {
-  return (
+    return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <h1 className="h1">The Cave</h1>
+      <FilterBar caveCatalog={appData}/>
     </div>
   );
 }
