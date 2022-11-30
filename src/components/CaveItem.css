@@ -48,11 +48,6 @@
     width: 20em;
 }
 
-.cave-item h3{
-    text-transform: uppercase;
-    font-weight: 900;
-}
-
 .item-desc {
     /*background-color: rgb(247, 247, 247);*/
     padding: 1rem;

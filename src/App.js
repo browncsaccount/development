@@ -7,7 +7,10 @@ import FilterBar from "./components/FilterBar";
 function App() {
     return (
     <div className="App">
-      <h1 className="h1">The Cave</h1>
+        <div className="h1">
+            <h1>The Cave</h1>
+            <img src="https://i.postimg.cc/d1S5P5xd/thecave.png" width="100" alt="The Cave"/>
+        </div>
       <FilterBar caveCatalog={appData}/>
     </div>
   );

@@ -9,15 +9,20 @@
 .h1 {
   text-transform: uppercase;
   font-family: 'Abril Fatface', cursive;
-  font-size: 35px;
+  font-size: 23px;
   margin-left: 300px;
   margin-bottom: 100px;
+  display: flex;
+  flex-direction: row;
 }
 
-/*.cave-item {*/
-/*  background-color: gray;*/
-/*  color: black;*/
-/*}*/
+.h1 img {
+  width: 70px;
+  height: 70px;
+  margin-top: 25px;
+  margin-left: 25px;
+}
+
 
 .catalog-container {
   display: flex;

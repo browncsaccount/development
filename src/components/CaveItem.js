@@ -2,16 +2,19 @@ import "./CaveItem.css";
 import React, {useEffect, useState} from 'react';
 
 export default function CaveItem(props) {
+
     const [aggregatorState, setAggregatorState] = useState("Favorite");
     const [inCart, setInCart] = useState(false);
 
     useEffect(() => {
         console.log(props.cartItems);
         props.cartItems.map((cartItem) => {
-
               if (cartItem === props.itemName) {
                   setAggregatorState("Remove from Favorites");
                   setInCart(true);
+              } else {
+                  setInCart(false)
+                  setAggregatorState("Favorite");
               }
         })
     });
@@ -40,6 +43,8 @@ export default function CaveItem(props) {
             setAggregatorState("Favorite");
         }
     }
+
+
 
     return (
         <div className="card">
