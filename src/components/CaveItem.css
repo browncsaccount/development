@@ -6,6 +6,8 @@
     position: relative;
 }
 
+/*The CSS for the .card id was inspired by the CodePen of Oancea Ionut Eugen*/
+
 .card {
     font-family: "Roboto", sans-serif;
     background-color: white;
@@ -16,6 +18,7 @@
     -webkit-box-shadow: 5px 5px 24px 15px rgba(0, 0, 0, 0.04);
     box-shadow: 5px 5px 24px 15px rgba(0, 0, 0, 0.04);
 }
+
 @media (orientation: landscape) {
     :root {
         --title-1: 28px;
